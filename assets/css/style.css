@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+    background-color: #8e008b;
+    color: #ff6200;
+    font-family: 'Permanent Marker', sans-serif;
+}
+
+.navbar-brand, .nav-item{
+    color: #ff6200 !important;
+}
